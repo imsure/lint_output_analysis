@@ -1,0 +1,5 @@
+*.txt
+report
+lint.out24
+lint.origout
+*.pyc
